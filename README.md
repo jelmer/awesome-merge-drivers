@@ -12,6 +12,10 @@
 8. [**npm-merge-driver**](https://github,com/npm/npm-merge-driver) - NPM package-lock.json files
 9. [**git-lfs-merge-driver**](https://git-lfs.com/) - Git LFS files
 10. [**org-merge-driver**](https://orgmode.org/) - Emacs Org Mode
+11. [**spork**](https://github.com/ASSERT-KTH/spork) - Java files
+12. [**jdime**](https://github.com/se-sic/jdime) - Java files
+13. [**DMFO**](https://github.com/lcnittl/DMFO) - Word .doc and .docx files
+14. [**Unity SmartMerge**](https://docs.unity3d.com/Manual/SmartMerge.html) - Unity scene and prefab files
 
 ## Documentation
 
