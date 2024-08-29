@@ -14,8 +14,10 @@
 10. [**org-merge-driver**](https://orgmode.org/) - Emacs Org Mode
 11. [**spork**](https://github.com/ASSERT-KTH/spork) - Java files
 12. [**jdime**](https://github.com/se-sic/jdime) - Java files
-13. [**DMFO**](https://github.com/lcnittl/DMFO) - Word .doc and .docx files
-14. [**Unity SmartMerge**](https://docs.unity3d.com/Manual/SmartMerge.html) - Unity scene and prefab files
+13. [**FSTmerge / s3m**](https://github.com/guilhermejccavalcanti/s3m) - Java files
+14. [**jsFSTMerge**](https://github.com/AlbertoTrindade/jsFSTMerge) - Javascript files
+15. [**DMFO**](https://github.com/lcnittl/DMFO) - Word .doc and .docx files
+16. [**Unity SmartMerge**](https://docs.unity3d.com/Manual/SmartMerge.html) - Unity scene and prefab files
 
 ## Documentation
 
