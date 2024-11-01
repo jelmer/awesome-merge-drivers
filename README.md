@@ -26,6 +26,7 @@
 ## All-in-one merge drivers
 
 1. [**smartmerge**](https://github.com/jelmer/smartmerge/)
+2. [**Mergiraf**](https://mergiraf.org/) - Java, Rust, Go, Javascript, C, C++, C#, JSON, HTML, XML, YAML and growing
 
 ## Meta
 
