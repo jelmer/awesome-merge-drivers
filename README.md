@@ -27,6 +27,7 @@
 
 1. [**smartmerge**](https://github.com/jelmer/smartmerge/)
 2. [**Mergiraf**](https://mergiraf.org/) - Java, Rust, Go, Javascript, C, C++, C#, JSON, HTML, XML, YAML and growing
+3. [**Plume-lib merging**](https://github.com/plume-lib/merging) - Version numbers; Java imports and annotations; and more
 
 ## Meta
 
