@@ -18,6 +18,9 @@
 14. [**jsFSTMerge**](https://github.com/AlbertoTrindade/jsFSTMerge) - Javascript files
 15. [**DMFO**](https://github.com/lcnittl/DMFO) - Word .doc and .docx files
 16. [**Unity SmartMerge**](https://docs.unity3d.com/Manual/SmartMerge.html) - Unity scene and prefab files
+17. [**git-merge-structure-sql**](https://github.com/knu/git-merge-structure-sql) - Rails db/structure.sql files (PostgreSQL, MySQL, SQLite3)
+18. [**git-merge-drivers**](https://github.com/rmedaer/git-merge-drivers) - JSON and YAMLmergers 
+19. [**cargo-merge-driver**](https://github.com/relrelb/cargo-merge-driver) - Rust Cargo.lock files
 
 ## Documentation
 
