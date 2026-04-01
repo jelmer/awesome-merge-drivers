@@ -22,6 +22,7 @@
 18. [**git-merge-drivers**](https://github.com/rmedaer/git-merge-drivers) - JSON and YAMLmergers 
 19. [**cargo-merge-driver**](https://github.com/relrelb/cargo-merge-driver) - Rust Cargo.lock files
 20. [**pnpm-merge-driver**](https://github.com/pnpm/merge-driver) - pnpm-lock.yaml files
+21. [**static-semantic-merge**](https://github.com/spgroup/static-semantic-merge) - Java files
 
 ## Documentation
 
